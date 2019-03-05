@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Hi Grandma
 
 ### Check out this new stuff:
 
